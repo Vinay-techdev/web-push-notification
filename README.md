@@ -61,6 +61,16 @@ npm run dev
 ```
 ---
 
+### 📸 Screenshots
+
+- UI
+<img width="1919" height="908" alt="Screenshot 2025-08-31 232835" src="https://github.com/user-attachments/assets/8d879c49-ecc4-430f-9042-4d7687babad6" />
+
+- Response from backend
+<img width="1911" height="913" alt="Screenshot 2025-08-31 235538" src="https://github.com/user-attachments/assets/6e652fc1-3b78-4668-b34f-a91dfaa5caca" />
+
+---
+
 ### 👨‍💻 Author
 
 **Vinay P** – MERN Developer | Learning Python + FastAPI 🚀
