@@ -50,7 +50,7 @@ npm run dev
 ---
 
 ### 📂 Project Structure
-
+```
 ├── backend/
 │   ├── main.py
 │   └── requirements.txt
@@ -58,12 +58,9 @@ npm run dev
 │   ├── src/
 │   └── package.json
 └── README.md
-
+```
 ---
 
-### 🌐 Demo 
-
----
 ### 👨‍💻 Author
 
 **Vinay P** – MERN Developer | Learning Python + FastAPI 🚀
