@@ -11,7 +11,7 @@ const App = () => {
     <div className="flex flex-col justify-center items-center min-h-screen bg-white text-gray-800">
       <h1 className="text-4xl text-black font-bold mb-2">
 
-        <span className="text-orange-800 mr-1.5 relative inline-block">Web Push Notification
+        <span className="text-blue-800 mr-1.5 relative inline-block">Web Push Notification
            <span className="absolute -bottom-1 left-0 w-full">
               <svg viewBox="0 0 100 10" preserveAspectRatio="none" className="w-full h-2">
                  <path d="M0,10 C30,0 70,0 100,10" stroke="black" strokeWidth="2" fill="none" />
